@@ -1,0 +1,20 @@
+{
+  "name": "ttiantianle/finder-data",
+  "description": "火山数据埋点SDK,基于的是1.0.7",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "finder-data",
+      "email": "ttiantianle@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "DataRangers\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
